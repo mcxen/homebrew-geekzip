@@ -1,6 +1,6 @@
 cask "geekzip" do
-  version "0.2.2"
-  sha256 "81ff62bc94fd47595bd61db840eb72c5960b0b3cd5ac023db05f437780e6a578"
+  version "0.2.3"
+  sha256 "41c16db9a37abcd0cb761ac08250655fe6d738a0db594180f6e76c8ef14de8e8"
 
   url "https://github.com/mcxen/GeekZip/releases/download/v#{version}/GeekZip-macos-arm64.app.zip"
   name "GeekZip"
